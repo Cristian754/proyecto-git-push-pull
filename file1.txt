@@ -1,0 +1,1 @@
+archivo creado desde un file1.txt para probar la funcionalidad de GIT PUSH
